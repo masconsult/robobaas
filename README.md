@@ -43,7 +43,7 @@ RoboBaas has been initiated at [Masconsult](http://www.masconsult.eu), a bulgari
 License
 -------
 
-  Copyright (C) 2013 Masconsult (http://www.masconsult.eu)
+	Copyright (C) 2013 Masconsult (http://www.masconsult.eu)
 	
 	Licensed under the Apache License, Version 2.0 (the "License");
 	you may not use this file except in compliance with the License.
